@@ -1,7 +1,5 @@
-##Introduction
 This is the backend of tinder-clone.
-I use mongoDB, heroku, postman, and firebase.
-This is MERN Stack.
+Utilized: Node.js, Express.js server, mongoDB, heroku, and postman.
 
 Front-end part is...
 https://github.com/peter-h-wi/tinder-clone
